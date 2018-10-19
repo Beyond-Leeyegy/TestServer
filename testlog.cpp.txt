@@ -1,0 +1,9 @@
+#include "utils.h"
+#include <iostream>
+using namespace std;
+int main(){
+//	printf(")
+	log("try the bese!\r\n");
+	cout<<"test";
+	return 0;
+}
